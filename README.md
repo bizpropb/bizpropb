@@ -1,6 +1,28 @@
 ## Hi there 👋
 
-*Pins are limited to 6 items - click on repos and sort by stars to see more.
+***Pins are limited to 6 items - Check the list below for more***
+
+Software:
+- Traditional Web App, using MongoDB, Express.js, React.js, Node.js: 
+- Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
+- Desktop App, using electron.js: https://github.com/bizpropb/ElectronShowcase
+https://github.com/bizpropb/MERN-Portfolio
+- Android/iOS App, using ionic, angular.js: https://github.com/bizpropb/ionicDash
+- Android/iOS App, using react native: (comming soon)
+- Homepage, showing off design techniques: (comming soon)
+- Laravel, Fillament project, using websockets: https://github.com/bizpropb/DigitalSignageLite
+
+Interesting Tech:
+- PostgREST, semi-automatic RESTapi: https://github.com/bizpropb/PostgRESTshowcase 
+- Docsify, semi-automatic website builder from .md files: https://github.com/bizpropb/DocsifyShowcase
+- WASM, Webassembly project: (comming soon)
+
+Misc:
+- Vue Demo Project: (comming soon)
+- Laravel Demo Project: (comming soon)
+- Ionic Demo Project: (Comming soon)
+- Click here to see more of my stuff: https://github.com/bizpropb?tab=repositories
+
 <!--
 **bizpropb/bizpropb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
