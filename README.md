@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-***Pins are limited to 6 items - Check the list below for more***
-
 Software:
 - Traditional Web App, using MongoDB, Express.js, React.js, Node.js: 
 - Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
@@ -23,6 +21,8 @@ Misc:
 - Ionic Demo Project: (Comming soon)
 - Click here to see more of my stuff: https://github.com/bizpropb?tab=repositories
 
+
+***Pins below are limited to 6 items - Check the list above for more***
 <!--
 **bizpropb/bizpropb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
