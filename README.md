@@ -12,7 +12,7 @@ Software:
 Interesting Tech:
 - PostgREST, semi-automatic RESTapi: https://github.com/bizpropb/PostgRESTshowcase 
 - Docsify, semi-automatic website builder from .md files: https://github.com/bizpropb/DocsifyShowcase
-- WASM, Webassembly project: (comming soon)
+- WASM, Webassembly project: https://github.com/bizpropb/WASMdemoMultipier
 
 Misc:
 - Vue Demo Project: (comming soon)
