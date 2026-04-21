@@ -3,7 +3,7 @@
 This is the official Github account of `Pascal Bossert`, limited to the repositories I deem relevant when applying for jobs.
 
 Software:
-- Traditional Web App, using MongoDB, Express.js, React.js, Node.js: https://github.com/bizpropb/MERN-Portfolio
+- SPA Web App, using MongoDB, Express.js, React.js, Node.js: https://github.com/bizpropb/MERN-Portfolio
 - Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
 - Desktop App, using electron.js: https://github.com/bizpropb/ElectronShowcase
 - Homepage, showing off design techniques: (comming soon)
