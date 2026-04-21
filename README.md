@@ -6,8 +6,6 @@ Software:
 - Traditional Web App, using MongoDB, Express.js, React.js, Node.js: https://github.com/bizpropb/MERN-Portfolio
 - Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
 - Desktop App, using electron.js: https://github.com/bizpropb/ElectronShowcase
-- Android/iOS App, using ionic, angular.js: https://github.com/bizpropb/ionicDash
-- Android/iOS App, using react native: (comming soon)
 - Homepage, showing off design techniques: (comming soon)
 - Laravel, Fillament project, using websockets: https://github.com/bizpropb/DigitalSignageLite
 
