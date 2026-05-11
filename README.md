@@ -4,9 +4,9 @@ This is the official Github account of `Pascal Bossert`, limited to the reposito
 
 Software:
 - SPA Web App, using MongoDB, Express.js, React.js, Node.js: https://github.com/bizpropb/MERN-Portfolio
+- Animated corporate/business landing demo: https://github.com/bizpropb/Etheral-Labs
 - Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
 - Desktop App, using electron.js: https://github.com/bizpropb/ElectronShowcase
-- Homepage, showing off design techniques: (comming soon)
 - Laravel, Fillament project, using websockets: https://github.com/bizpropb/DigitalSignageLite
 
 Interesting Tech:
