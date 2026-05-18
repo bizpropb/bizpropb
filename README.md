@@ -8,6 +8,7 @@ Software:
 - Progressive Web App, using next.js, primsa.js: https://github.com/bizpropb/CapturePWA
 - Desktop App, using electron.js: https://github.com/bizpropb/ElectronShowcase
 - Laravel, Fillament project, using websockets: https://github.com/bizpropb/DigitalSignageLite
+- Refine, Supabase and Shadcn/ui: https://github.com/bizpropb/RefineDemo-V-Supabase
 
 Interesting Tech:
 - PostgREST, semi-automatic RESTapi: https://github.com/bizpropb/PostgRESTshowcase 
