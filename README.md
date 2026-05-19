@@ -14,6 +14,7 @@ Interesting Tech:
 - PostgREST, semi-automatic RESTapi: https://github.com/bizpropb/PostgRESTshowcase 
 - Docsify, semi-automatic website builder from .md files: https://github.com/bizpropb/DocsifyShowcase
 - WASM, Webassembly project: https://github.com/bizpropb/WASMdemoMultipier
+- WASP LANG, full-stack architecture compiler: https://github.com/bizpropb/waspDemo
 
 Misc:
 - Vue Demo Project: (comming soon)
