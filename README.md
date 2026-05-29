@@ -11,6 +11,8 @@ Software:
 - Refine, Supabase and Shadcn/ui: https://github.com/bizpropb/RefineDemo-V-Supabase
 
 Interesting Tech:
+- Svelte, Simpler & Faster React Alternative, compiles direct DOM updates: 
+https://github.com/bizpropb/SvelteDemoApp
 - Gradio, UIs from python-functions without any manual JS, CSS or HTML: https://github.com/bizpropb/gradioDemo
 - PostgREST, semi-automatic RESTapi: https://github.com/bizpropb/PostgRESTshowcase 
 - Docsify, semi-automatic website builder from .md files: https://github.com/bizpropb/DocsifyShowcase
